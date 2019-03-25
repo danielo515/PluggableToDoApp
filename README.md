@@ -1,2 +1,0 @@
-# PluggableToDoApp
-Created with CodeSandbox
